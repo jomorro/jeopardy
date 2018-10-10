@@ -1,0 +1,45 @@
+.newDiv {
+    display: flex;
+}
+
+span {
+    display: flex;
+    border: 2px solid black;
+    width: 150px;
+    height: 100px;
+    background-color: rgb(55, 55, 243);
+    border-radius: 1px;
+}
+
+body {
+    color:gold;
+    font-family: 'Poiret One';
+    font-size: 20px;
+    text-align: center;
+    background-color: black;
+}
+
+p {
+    text-align: justify;
+    color:gold;
+}
+
+/*.row1 {
+    background-image: url("images/100.png")
+}
+
+.row2 {
+    background-image: url("images/200.png")
+}
+
+.row3 {
+    background-image: url("images/300.png")
+}
+
+.row4 {
+    background-image: url("images/400.png")
+}
+
+.row5 {
+    background-image: url("images/500.png")
+} /*
